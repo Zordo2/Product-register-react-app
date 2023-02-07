@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card
+{
+  display: flex !important;
+}
+.red
+{
+  border:red 1px solid;
+}
